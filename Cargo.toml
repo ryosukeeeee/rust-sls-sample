@@ -1,0 +1,13 @@
+[package]
+name = "rust-sls-sample"
+version = "0.1.0"
+authors = ["ryosukeeeee"]
+edition = "2018"
+
+[dependencies]
+lambda_runtime = "0.2.1"
+serde_json = "1.0.56"
+serde_derive = "1.0.114"
+env_logger = "0.7.1"
+log = "0.4.8"
+serde = "1.0.114"
